@@ -1,9 +1,3 @@
-/**
- * Draws a simple graphical rectangle.
- * 
- * @author Dave Riley
- * @author M. Allen
- */
 import javax.swing.*;
 import java.awt.*;
 
