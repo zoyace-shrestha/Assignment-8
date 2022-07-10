@@ -126,7 +126,7 @@ public class Ball
 				bounces++;
 
 				// Increase speed and count ball hits
-				if (bounces % 5 == 0)
+				if (bounces % 1 == 0)
 				{
 					speed++;
 				}
@@ -138,7 +138,7 @@ public class Ball
 				bounces++;
 
 				// Increase speed and count ball hits
-				if (bounces % 5 == 0)
+				if (bounces % 1 == 0)
 				{
 					speed++;
 				}
